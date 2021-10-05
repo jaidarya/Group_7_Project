@@ -5,5 +5,7 @@ public class SecondFile {
         System.out.println("Hello group #7 :)");
 
         //Hello Hello :)
+
+        // I hope we can make it :)
     }
 }
